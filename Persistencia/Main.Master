@@ -1,0 +1,26 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Main.master.cs" Inherits="Persistencia.Main" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <a href="Index.aspx">Inicio</a>
+            <a href="WFCategories.aspx">Categorias</a>
+            <a href="WFProducts.aspx">Productos</a>
+            <a href="WFProviders.aspx">Proveedores</a>
+            <a href="WFUsers.aspx">Usuarios</a>
+            <a href="Login.aspx">Cerrar sesion</a>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

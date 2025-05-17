@@ -121,12 +121,12 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Source\CategoryData.cs" />
-    <Compile Include="Source\Persistencia.cs" />
-    <Compile Include="Source\ProductsData.cs" />
+    <Compile Include="CategoryData.cs" />
+    <Compile Include="Persistencia.cs" />
+    <Compile Include="ProductsData.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Source\ProvidersData.cs" />
-    <Compile Include="Source\UsersData.cs" />
+    <Compile Include="ProvidersData.cs" />
+    <Compile Include="UsersData.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
