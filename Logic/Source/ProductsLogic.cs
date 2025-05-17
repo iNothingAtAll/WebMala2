@@ -1,9 +1,5 @@
-﻿using Datos;
-using System;
-using System.Collections.Generic;
+﻿using Data;
 using System.Data;
-using System.Linq;
-using System.Web;
 
 namespace Logic.Source
 {
@@ -28,4 +24,5 @@ namespace Logic.Source
                 return objPro.updateProducts(_id, _code, _description, _quantity, _price, _fHCategory, _fHProvider);
             }
         }
+    }
 }

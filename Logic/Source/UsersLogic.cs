@@ -1,9 +1,5 @@
-﻿using Datos;
-using System;
-using System.Collections.Generic;
+﻿using Data;
 using System.Data;
-using System.Linq;
-using System.Web;
 
 namespace Logic.Source
 {

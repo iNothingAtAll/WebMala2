@@ -1,0 +1,2 @@
+C:\Users\unkno\Desktop\Code\APS.net\WebMala2\Logic\obj\Debug\Logic.csproj.AssemblyReference.cache
+C:\Users\unkno\Desktop\Code\APS.net\WebMala2\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
